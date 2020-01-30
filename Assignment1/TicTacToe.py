@@ -44,16 +44,9 @@ def start_game():
 	return [[0, 0, 0] for x in range(3)]
 
 def display_game(game):
-
-
+    # TODO: display board with turtle
 
 def add_piece(game, player, row, column):
-	"""
-	game: game state
-	player: player number
-	row: 0-index row
-	column: 0-index column
-	"""
 	game[row][column] = player
 	return game
 
