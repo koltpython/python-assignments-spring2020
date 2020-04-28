@@ -1,0 +1,30 @@
+location,product_type,product_description,quantity,price
+Istanbul,seeds,daisy,4,6.99
+Istanbul,seeds,calla lily,46,19.99
+Istanbul,seeds,tomato,85,13.99
+Istanbul,garden tools,rake,4,13.99
+Istanbul,garden tools,wheelbarrow,0,89.99
+Istanbul,garden tools,spade,93,19.99
+Istanbul,pest_control,insect killer,74,12.99
+Istanbul,pest_control,weed killer,8,23.99
+Istanbul,planter,20 inch terracotta planter,0,17.99
+Istanbul,planter,8 inch plastic planter,53,3.99
+Bursa,seeds,daisy,50,6.99
+Bursa,seeds,calla lily,0,19.99
+Bursa,seeds,tomato,0,13.99
+Bursa,garden tools,rake,15,13.99
+Bursa,garden tools,wheelbarrow,82,89.99
+Bursa,garden tools,spade,36,19.99
+Bursa,pest_control,insect killer,80,12.99
+Bursa,pest_control,weed killer,76,23.99
+Bursa,planter,20 inch terracotta planter,5,17.99
+Bursa,planter,8 inch plastic planter,26,3.99
+Kocaeli,seeds,daisy,57,6.99
+Kocaeli,seeds,calla lily,95,19.99
+Kocaeli,seeds,tomato,45,13.99
+Kocaeli,garden tools,rake,21,13.99
+Kocaeli,garden tools,wheelbarrow,98,89.99
+Kocaeli,garden tools,spade,26,19.99
+Kocaeli,pest_control,insect killer,0,12.99
+Kocaeli,pest_control,weed killer,16,23.99
+Kocaeli,planter,20 inch terracotta planter,87,17.99
